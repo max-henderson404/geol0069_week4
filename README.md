@@ -1,0 +1,111 @@
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/github_username/repo_name">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+<h3 align="center">project_title</h3>
+
+  <p align="center">
+    project_description
+    <br />
+    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    &middot;
+    <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    &middot;
+    <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+  </p>
+</div>
+
+
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`, `project_license`
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+This is designed to be run using Google Colab. Below is a local setup should you wish to use that option.
+Otherwise
+
+
+### Prerequisites
+
+To run locally, ensure any dependencies are installed:
+```sh
+pip install netCDF4 numpy matplotlib scipy scikit-learn glob2
+```
+Otherwise, all dependencies for Colab are installed in the notebook.
+
+
+### Installation
+#### Google Colab
+1. Clone the repo in an empty directory of your choice:
+   ```sh
+   git clone https://github.com/max-henderson404/geol0069_week4.git
+   ```
+2. Open your Google Drive: [https://drive.google.com](https://drive.google.com)
+3. Navigate: New > Folder upload and then select the folder that you cloned the repo to
+4. Open the notebook in Colab and run!
+
+#### Jupyter Notebook (local)
+1. Clone the repo in an empty directory of your choice:
+   ```sh
+   git clone https://github.com/max-henderson404/geol0069_week4.git
+   ```
+2. Install Jupyter Notebook:
+    ```sh
+    pip install notebook
+    ```
+3. Navigate to the cloned repo:
+    ```sh
+    cd /Path/to/repo
+    ```
+4. Open Jupter Notebook
+    ```sh
+    jupyter notebook
+    ```
+5. Click on the notebook and run, removing any colab or pip commands.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
