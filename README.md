@@ -1,4 +1,4 @@
-<!-- PROJECT LOGO -->
+ <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
@@ -53,10 +53,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`, `project_license`
+This is an example notebook to use K-Means and Gaussian Mixture Model methods to classify sea ice and leads. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -105,6 +102,35 @@ Otherwise, all dependencies for Colab are installed in the notebook.
     jupyter notebook
     ```
 5. Click on the notebook and run, removing any colab or pip commands.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+## License
+
+Distributed under the project_license. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+
+Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+* []()
+* []()
+* []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
