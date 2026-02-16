@@ -27,12 +27,7 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
+    <li><a href="#about-the-project">About The Project</a></li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -40,10 +35,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -73,7 +64,7 @@ pip install netCDF4 numpy matplotlib scipy scikit-learn glob2
 ```
 Otherwise, all dependencies for Colab are installed in the notebook.
 
-The notebook imports a file listed as 
+The notebook imports a file with a `.SEN3` extension, which must be downloaded from the [Copernicus Data Space Ecosystem](https://dataspace.copernicus.eu). To do this, please follow the instructions in [this notebook](https://cpomucl.github.io/GEOL0069-AI4EO/Chapter%201%3AFetching_Data.html) from the UCL Earth Sciences module GEOL0069 "AI for Earth Observation".
 
 
 ### Installation
@@ -106,15 +97,6 @@ The notebook imports a file listed as
 5. Click on the notebook and run, removing any colab or pip commands.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-## License
-
-Distributed under the project_license. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
