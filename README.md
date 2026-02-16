@@ -1,7 +1,7 @@
  <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/max-henderson404/geol0069">
+  <a href="https://github.com/max-henderson404/geol0069/logo.png">
     <img src="logo.png" alt="Logo" width="280" height="280">
   </a>
 
