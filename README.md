@@ -73,6 +73,8 @@ pip install netCDF4 numpy matplotlib scipy scikit-learn glob2
 ```
 Otherwise, all dependencies for Colab are installed in the notebook.
 
+The notebook imports a file listed as 
+
 
 ### Installation
 #### Google Colab
@@ -117,9 +119,9 @@ Distributed under the project_license. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Max Henderson - maxhenderson404@outlook.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/max-henderson404/geol0069_week4/](https://github.com/max-henderson404/geol0069_week4/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -128,9 +130,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* The UCL Earth Sciences module [AI for Earth Observation](https://cpomucl.github.io/GEOL0069-AI4EO/intro.html)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
